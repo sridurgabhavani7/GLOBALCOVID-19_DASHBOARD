@@ -1,13 +1,12 @@
 # GLOBALCOVID-19_DASHBOARD
 An EXCEL Dashboard to Visualize the analysis of COVID 19
 
-**Contents
+****Contents**
 Features
 Usage
-Screenshots
 Data Sources
 
-Features**
+**Features****
 
 **Cumulative Cases and Deaths:**
 
@@ -15,12 +14,15 @@ Display total cumulative cases and deaths globally or by country.
 **Maximum Deaths by Year:**
 
 Showcase the countries with the maximum deaths each year.
+
 **Average New Cases by Quarter:
 
 Present the average of new cases on a quarterly basis.
+
 **Top 5 Countries with New Cases:**
 
 Identify and display the top 5 countries with the highest number of new cases.
+
 **Key Performance Indicators (KPIs):**
 
 Case Fatality Rate
@@ -38,7 +40,6 @@ Guide on how to use your COVID-19 Excel Dashboard:
 
 **Screenshots**
 Include screenshots of your COVID-19 Excel Dashboard to give users a visual preview of the content and visualizations.
-![Screenshot 1](screenshots/Dashboard1.png)
 
 
 **Data Sources**
