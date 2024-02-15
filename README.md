@@ -2,9 +2,6 @@
 An EXCEL Dashboard to Visualize the analysis of COVID 19
 
 # Contents
-**Features
-Usage
-Data Sources**
 
 **Features**:
 
